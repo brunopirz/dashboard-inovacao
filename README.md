@@ -12,7 +12,9 @@ Dashboard interativo desenvolvido em **Python + Streamlit + PostgreSQL** para mo
 ## Instalação
 
 git clone [https://github.com/brunopirz/dashboard-inovacao.git](https://github.com/brunopirz/dashboard-inovacao.git)
+
 cd dashboard-inovacao
+
 pip install -r requirements.txt
 
 
