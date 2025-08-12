@@ -15,6 +15,7 @@ git clone https://github.com/seuusuario/dashboard-inovacao.git
 cd dashboard-inovacao
 pip install -r requirements.txt```
 
+
 Crie um banco PostgreSQL:
 ```
 CREATE DATABASE inovacao;
